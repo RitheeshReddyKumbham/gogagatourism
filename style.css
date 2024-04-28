@@ -1,0 +1,468 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.flag {
+    height: 10px;
+}
+
+.gogaga-Background {
+    background-image: url("https://wallpapercave.com/wp/wp4853034.jpg");
+    background-size: cover;
+    height: 300%;
+    width: 100%;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.heading {
+    color: #087AA8;
+    font-family: "Roboto Slab"SemiBold 600;
+    font-weight: 900;
+}
+
+.g {
+    color: #6ED53D;
+}
+
+.help {
+    border-style: solid;
+    height: 40px;
+    width: 50px;
+    border: dashed;
+    text-align: center;
+    border-color: #969C99;
+    border-radius: 6px;
+    padding-top: 8px;
+    margin: 5px;
+    margin-top: 17px;
+    font-size: 12px;
+    padding: 5px;
+}
+
+.top-list {
+    display: flex;
+    justify-content: space-around;
+}
+
+.top-sec {
+    display: flex;
+    justify-content: space-between;
+}
+
+.flag {
+    border-style: solid;
+    height: 40px;
+    width: 50px;
+    border: dashed;
+    text-align: center;
+    border-color: #969C99;
+    border-radius: 6px;
+    padding: 8px;
+    margin: 5px;
+    margin-top: 17px;
+}
+
+.cab {
+    border-style: solid;
+    height: 40px;
+    width: 140px;
+    border: dashed;
+    text-align: center;
+    border-color: #969C99;
+    border-radius: 6px;
+    padding: 0px;
+    margin: 5px;
+    margin-top: 17px;
+    font-family: "roboto";
+    color: #066ECB;
+    font-size: 12px;
+    font-weight: bold;
+    padding-bottom: 0px;
+
+}
+
+.cab-check {
+    font-size: 10px;
+    margin-top: 0px;
+    padding-bottom: 2px;
+}
+.bookings{
+    font-size: 10px;
+    font-weight:bold;
+    color:#05436C;
+}
+.m-card {
+    height: 40px;
+    width: 160px;
+    border-color: #969C99;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 17px;
+    font-family: "roboto";
+    background-image: linear-gradient(to right, #135BA4, #2281E2);
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+
+}
+
+.book-card {
+    border-style: solid;
+    height: 40px;
+    width: 160px;
+    border: dashed;
+    border-color: #969C99;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 17px;
+    font-family: "roboto";
+    text-align: left;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.login-card {
+    border-style: solid;
+    height: 40px;
+    width: 160px;
+    border: dashed;
+    border-color: #969C99;
+    border-radius: 6px;
+    padding: 5px;
+    margin: 5px;
+    margin-top: 17px;
+    font-family: "roboto";
+    text-align: left;
+    justify-content: space-between;
+    text-align: left;
+}
+
+.topic {
+    text-align: center;
+    margin: 30px;
+    margin-bottom: 60px;
+}
+
+.heading2 {
+    font-size: 30px;
+    font-weight: bold;
+    color: #07367E;
+}
+
+.para2 {
+    font-size: 26px;
+    font-weight: normal;
+    color: #07367E;
+}
+
+
+
+.options {
+    display: flex;
+    justify-content: space-between;
+}
+
+
+
+.icon {
+    margin: 3px;
+    margin-top: 8px;
+
+}
+
+.gem {
+    background-color: #ffffff;
+    border-radius: 15px;
+
+    padding: 3px;
+
+    color: #0A5E95;
+}
+
+.membership {
+    color: #BED1E5;
+    font-size: 12px;
+    margin: 2px;
+    margin-top: 5px;
+}
+
+.member {
+    color: #BED1E5;
+}
+
+.hotel {
+    color: #09090A;
+    font-size: 10px;
+    margin-top: 2px;
+    font-weight: bold;
+}
+
+.reservations {
+    font-size: 8px;
+}
+
+.login {
+    color: #09090A;
+    font-size: 10px;
+    margin-top: 4px;
+    font-weight: 400;
+}
+
+.account {
+    font-size: 10px;
+}
+
+.lists {
+    background-color: #ffffff;
+    height: 60px;
+    width: 90%;
+    padding: 10px;
+    border-radius: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    margin-left: 5%;
+    position:relative;
+    bottom:50px;
+    margin-bottom:0px;
+}
+
+.item {
+    display: flex;
+    justify-content: center;
+    background-color: #ACC6F1;
+    border-radius: 25px;
+    padding: 5px;
+    margin: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+.hotel {
+    display: flex;
+    justify-content: center;
+    background-color: #0B45A5;
+    border-radius: 25px;
+    padding: 5px;
+    height: 40px;
+    width: 100px;
+}
+
+.item1 {
+    font-size: 14px;
+    color: #0B3A88;
+    margin-top: 5px;
+    margin: 5px;
+}
+
+.item2 {
+    font-size: 14px;
+    color: #D6E1F3;
+    margin-top: 5px;
+    margin: 5px;
+}
+
+.item-icon {
+    font-size: 16px;
+    margin-top: 5px;
+}
+.card {
+    background-image: linear-gradient(to bottom, #2281E2, #014876);
+    padding: 20px;
+    border-radius: 15px;
+    border-width: 0px;
+    margin: 20px;
+    margin-bottom:60px
+}
+.destination {
+    border-style: solid;
+    border-color: #DCE7F2;
+    border-width: 1px;
+    padding: 8px;
+    border-radius: 10px;
+    height: 60px;
+    width: 400px;
+    text-align: left;
+}
+.dest {
+    color: #ffffff;
+    font-size: 12px;
+    margin-bottom: 0px;
+    text-align:left;
+}
+
+.city {
+    color: #ffffff;
+    font-size: 16px;
+    margin-top: 0px;
+}
+
+.guest {
+    display: flex;
+    justify-content: space-between;
+}
+
+.check {
+    color: #ffffff;
+    font-size: 12px;
+    margin-bottom: 0px;
+}
+
+.time {
+    color: #ffffff;
+    font-size: 16px;
+    margin-bottom: 0px;
+}
+
+.timings {
+    display: flex;
+    justify-content: space-between;
+}
+
+.moon {
+    margin-left: 20px;
+    color: #ffffff;
+}
+
+.check-box {
+    background-color: transperent;
+}
+
+.checkPara {
+    color: #ffffff;
+    font-size: 14px;
+    margin: 4px;
+}
+
+.star {
+    background-color: #ffffff;
+    margin: 5px;
+    width: 36px;
+    height: 25px;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+}
+
+.num {
+    font-size: 16px;
+}
+
+.star1 {
+    padding-top: 5px;
+    font-size: 14px;
+}
+
+.rating {
+    margin-top: 20px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.count {
+    font-size: 35px;
+    color: #05436C;
+    font-weight: bold;
+    margin: 2px;
+}
+
+.stat {
+    font-size: 12px;
+    color: #05436C;
+    margin-top: 10px;
+    font-weight:bold;
+}
+
+.stats {
+    margin: 5px;
+}
+
+.line {
+    font-size: 40px;
+    margin-top: 5px;
+    font-weight: 80;
+}
+
+.play {
+    font-size: 40px;
+    margin-top: 10px;
+}
+
+.download {
+    text-align: left;
+    font-size: 12px;
+    color: #05436C;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    font-weight:Bold;
+}
+
+.google {
+    margin-top: 12px;
+    margin-left: 5px;
+    font-size: 20px;
+    color: #05436C;
+    font-weight:Bold;
+
+}
+
+.footer-sec {
+    margin: 10px;
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.footer {
+    display: flex;
+    justify-content: space-around;
+    text-align: left;
+    margin: 5px;
+}
+
+.footerhead {
+    font-size: 14px;
+    font-weight: bold;
+    color: #0E4E7A;
+    margin-bottom: 0px;
+}
+
+.footerpara {
+    font-size: 12px;
+    font-weight: normal;
+    color: #0E4E7A;
+}
+
+.foot-icon {
+    font-size: 20px;
+    margin: 8px;
+    margin-top: 10px;
+}
+
+.save {
+    font-size: 40px;
+    color: #0B2652;
+    font-weight: 500;
+}
+
+.tree {
+    font-size: 14px;
+    color: #0B2652;
+    font-weight: 500;
+    margin-top: 10px;
+
+}
+
+.leaf {
+    font-size: 50px;
+    margin: 5px;
+
+}
